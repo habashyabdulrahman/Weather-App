@@ -118,10 +118,10 @@ body {
     }
 }
 
-@media (max-width: 375px) {
+@media (max-width: 396px) {
     .card {
         width: 90%;
-        max-width: 375px;
+        max-width: 396px;
     }
 
     .search input {
